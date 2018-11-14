@@ -1,4 +1,2 @@
 # RPi_Console
-7bot HW with RaspberryPI
-
-
+Console program to control a 7bot robot arm with RaspberryPI
